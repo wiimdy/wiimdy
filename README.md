@@ -32,7 +32,7 @@ const profile = {
         <code>trace</code> -> <code>RCA</code>
       </p>
       <a href="https://backwardlabs.io/">site</a>
-      ·
+      |
       <a href="https://github.com/BackwardLabs/Q1-2026">case archive</a>
     </td>
   </tr>
