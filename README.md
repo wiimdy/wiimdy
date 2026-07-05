@@ -16,12 +16,14 @@
 
 <p>
   <a href="https://www.linkedin.com/in/wiimdy/">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+    <img src="./assets/social-linkedin.svg" alt="LinkedIn" width="58" />
   </a>
+  &nbsp;&nbsp;
   <a href="https://x.com/wiimdy">
-    <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X" />
+    <img src="./assets/social-x.svg" alt="X" width="58" />
   </a>
+  &nbsp;&nbsp;
   <a href="https://wiimdy.kr">
-    <img src="https://img.shields.io/badge/Website-111827?style=for-the-badge&logo=vercel&logoColor=white" alt="Website" />
+    <img src="./assets/social-web.svg" alt="Website" width="58" />
   </a>
 </p>
