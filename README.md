@@ -1,38 +1,39 @@
 <div align="center">
 
-![header](https://capsule-render.vercel.app/api?type=waving&height=165&color=0:111827,55:dc2626,100:f97316&text=web3%20security%20research&fontColor=ffffff&fontSize=32&fontAlignY=38&desc=audits%20%2F%20exploit%20reproduction%20%2F%20incident%20analysis&descAlignY=58&descSize=14)
+![header](https://capsule-render.vercel.app/api?type=waving&height=160&color=0:111827,55:dc2626,100:f97316&text=security%20dossier&fontColor=ffffff&fontSize=34&fontAlignY=38&desc=web3%20audits%20%2F%20exploit%20reproduction%20%2F%20incident%20analysis&descAlignY=58&descSize=14)
+
+![typing](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=18&duration=2600&pause=900&color=DC2626&center=true&vCenter=true&width=620&lines=exploit+transaction+%E2%86%92+Foundry+PoC;attack+trace+%E2%86%92+root+cause+analysis;compact+notes+for+security+review)
 
 [![website](https://img.shields.io/badge/wiimdy.kr-111827?style=flat-square&logo=vercel&logoColor=white)](https://wiimdy.kr)
 [![x](https://img.shields.io/badge/@wiimdy-000000?style=flat-square&logo=x&logoColor=white)](https://x.com/wiimdy)
-[![research](https://img.shields.io/badge/focus-exploit%20PoCs-dc2626?style=flat-square)](https://github.com/BackwardLabs/Q1-2026)
+[![backlight](https://img.shields.io/badge/BackwardLabs-BackLight-dc2626?style=flat-square)](https://backwardlabs.io/)
 
 </div>
 
-<br />
-
-<div align="center">
-
-<a href="https://github.com/BackwardLabs/Q1-2026">
-  <img width="460" src="https://github-readme-stats.vercel.app/api/pin/?username=BackwardLabs&repo=Q1-2026&theme=transparent&hide_border=true&title_color=dc2626&text_color=374151&icon_color=f97316" />
-</a>
-
-</div>
-
-<br />
+```ts
+const profile = {
+  focus: ["web3 audits", "exploit reproduction", "incident analysis"],
+  stack: ["Solidity", "Foundry", "on-chain tracing"],
+  output: ["PoC", "trace", "RCA"],
+  main: "BackwardLabs / BackLight",
+};
+```
 
 <table>
   <tr>
-    <td align="center" width="33%">
-      <b>replay</b><br />
-      <sub>turn real incidents into Foundry PoCs</sub>
-    </td>
-    <td align="center" width="33%">
-      <b>trace</b><br />
-      <sub>follow attack flow and asset movement</sub>
-    </td>
-    <td align="center" width="33%">
-      <b>explain</b><br />
-      <sub>write compact RCA for security review</sub>
+    <td>
+      <h3>BackwardLabs / BackLight</h3>
+      <p>
+        Turns exploit transactions into reproducible cases and compact reports:
+        behavior replay, asset movement, and root cause analysis.
+      </p>
+      <p>
+        <code>exploit tx</code> -> <code>Foundry PoC</code> ->
+        <code>trace</code> -> <code>RCA</code>
+      </p>
+      <a href="https://backwardlabs.io/">site</a>
+      ·
+      <a href="https://github.com/BackwardLabs/Q1-2026">case archive</a>
     </td>
   </tr>
 </table>
