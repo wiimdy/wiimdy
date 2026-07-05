@@ -1,19 +1,27 @@
 <div align="center">
   <img src="https://media.tenor.com/bI42jTkZOacAAAAj/hangyodon-sanrio.gif" alt="Hangyodon" width="210" />
-  <br />
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=17&duration=2600&pause=900&color=6ECFF6&center=true&vCenter=true&width=460&lines=foundry+%2B+traces;small+pocs;clean+notes" alt="typing" />
 </div>
 
 ## 𝙰𝚋𝚘𝚞𝚝 𝙼𝚎
 
-🐟 𝚆𝚎𝚋𝟹 𝚜𝚎𝚌𝚞𝚛𝚒𝚝𝚢 𝚛𝚎𝚜𝚎𝚊𝚛𝚌𝚑, 𝚖𝚘𝚜𝚝𝚕𝚢 𝚘𝚗-𝚌𝚑𝚊𝚒𝚗 𝚝𝚛𝚊𝚌𝚎𝚜
+🔐 𝚂𝚎𝚌𝚞𝚛𝚒𝚝𝚢 𝚛𝚎𝚜𝚎𝚊𝚛𝚌𝚑𝚎𝚛
 
-🧪 𝙵𝚘𝚞𝚗𝚍𝚛𝚢 𝙿𝚘𝙲𝚜 𝚏𝚘𝚛 𝚎𝚡𝚙𝚕𝚘𝚒𝚝 𝚛𝚎𝚙𝚛𝚘𝚍𝚞𝚌𝚝𝚒𝚘𝚗
+🎓 𝙺𝚘𝚛𝚎𝚊 𝚄𝚗𝚒𝚟𝚎𝚛𝚜𝚒𝚝𝚢
 
-🔎 𝚂𝚘𝚕𝚒𝚍𝚒𝚝𝚢 𝚊𝚞𝚍𝚒𝚝𝚜, 𝚝𝚛𝚊𝚌𝚎 𝚛𝚎𝚊𝚍𝚒𝚗𝚐, 𝚊𝚗𝚍 𝚛𝚘𝚘𝚝 𝚌𝚊𝚞𝚜𝚎 𝚗𝚘𝚝𝚎𝚜
+💼 𝙲𝚞𝚛𝚛𝚎𝚗𝚝𝚕𝚢 𝚠𝚘𝚛𝚔𝚒𝚗𝚐 𝚘𝚗 𝚠𝚎𝚋𝟹 𝚊𝚞𝚍𝚒𝚝𝚜
 
-🫧 𝚂𝚖𝚊𝚕𝚕 𝚛𝚎𝚙𝚛𝚘𝚜, 𝚌𝚕𝚎𝚊𝚗 𝚠𝚛𝚒𝚝𝚎𝚞𝚙𝚜, 𝚕𝚎𝚜𝚜 𝚗𝚘𝚒𝚜𝚎
+## 📬 𝙷𝚘𝚠 𝚝𝚘 𝚛𝚎𝚊𝚌𝚑 𝚖𝚎
 
-🌐 [𝚠𝚒𝚒𝚖𝚍𝚢.𝚔𝚛](https://wiimdy.kr) / [𝚡](https://x.com/wiimdy)
+𝙴𝚖𝚊𝚒𝚕 𝚒𝚜 𝚘𝚗 𝚖𝚢 𝙶𝚒𝚝𝙷𝚞𝚋 𝚙𝚛𝚘𝚏𝚒𝚕𝚎. 𝙵𝚘𝚕𝚕𝚘𝚠 𝚖𝚢 𝚜𝚘𝚌𝚒𝚊𝚕𝚜!
 
-𝚋𝚝𝚠 𝙸 𝚞𝚜𝚎 𝙵𝚘𝚞𝚗𝚍𝚛𝚢
+<p>
+  <a href="https://www.linkedin.com/in/wiimdy/">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="https://x.com/wiimdy">
+    <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X" />
+  </a>
+  <a href="https://wiimdy.kr">
+    <img src="https://img.shields.io/badge/Website-111827?style=for-the-badge&logo=vercel&logoColor=white" alt="Website" />
+  </a>
+</p>
