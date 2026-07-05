@@ -1,32 +1,19 @@
 <div align="center">
-  <img src="./assets/profile-card.svg" alt="security dossier" width="100%" />
+  <img src="./assets/profile-card.svg" alt="hello profile card" width="100%" />
+  <br />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=17&duration=2600&pause=900&color=FF6B9D&center=true&vCenter=true&width=520&lines=solidity+%2F+foundry+%2F+traces;small+PoCs+and+clean+notes;web3+security+research" alt="typing" />
 </div>
+
+## A little about me...
 
 ```ts
 const profile = {
-  role: "web3 security researcher",
-  focus: ["audits", "exploit reproduction", "incident analysis"],
-  tools: ["Solidity", "Foundry", "on-chain traces"],
-  output: ["PoC", "RCA", "security notes"],
+  current: "web3 security",
+  interest: ["Solidity", "Foundry", "on-chain traces"],
+  output: ["exploit PoCs", "RCA notes"],
+  style: ["small", "reproducible", "clear"],
 };
 ```
-
-<table>
-  <tr>
-    <td align="center" width="33%">
-      <b>replay</b><br />
-      <sub>reproduce exploit behavior with minimal test cases</sub>
-    </td>
-    <td align="center" width="33%">
-      <b>trace</b><br />
-      <sub>follow calldata, state changes, and asset movement</sub>
-    </td>
-    <td align="center" width="33%">
-      <b>explain</b><br />
-      <sub>turn findings into concise RCA and audit notes</sub>
-    </td>
-  </tr>
-</table>
 
 <p align="center">
   <a href="https://wiimdy.kr">site</a>

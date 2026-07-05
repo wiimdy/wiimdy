@@ -1,56 +1,59 @@
 <svg width="1000" height="320" viewBox="0 0 1000 320" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="title desc">
-  <title id="title">Security dossier</title>
-  <desc id="desc">A compact web3 security research profile card.</desc>
+  <title id="title">Hello profile card</title>
+  <desc id="desc">A cute profile card for a GitHub README.</desc>
   <defs>
     <linearGradient id="bg" x1="0" y1="0" x2="1000" y2="320" gradientUnits="userSpaceOnUse">
-      <stop stop-color="#0B1020"/>
-      <stop offset="0.56" stop-color="#151827"/>
-      <stop offset="1" stop-color="#2B1210"/>
+      <stop stop-color="#FFF1F7"/>
+      <stop offset="0.5" stop-color="#FFF7ED"/>
+      <stop offset="1" stop-color="#ECFEFF"/>
     </linearGradient>
-    <linearGradient id="accent" x1="140" y1="54" x2="860" y2="254" gradientUnits="userSpaceOnUse">
-      <stop stop-color="#DC2626"/>
-      <stop offset="1" stop-color="#F97316"/>
+    <linearGradient id="screen" x1="315" y1="82" x2="812" y2="238" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#111827"/>
+      <stop offset="1" stop-color="#1F2937"/>
     </linearGradient>
-    <filter id="shadow" x="-20" y="-20" width="1040" height="360" filterUnits="userSpaceOnUse" color-interpolation-filters="sRGB">
-      <feDropShadow dx="0" dy="18" stdDeviation="22" flood-color="#000000" flood-opacity="0.28"/>
+    <linearGradient id="accent" x1="135" y1="89" x2="285" y2="239" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#FF6B9D"/>
+      <stop offset="1" stop-color="#7DD3FC"/>
+    </linearGradient>
+    <filter id="softShadow" x="-30" y="-30" width="1060" height="380" filterUnits="userSpaceOnUse" color-interpolation-filters="sRGB">
+      <feDropShadow dx="0" dy="18" stdDeviation="20" flood-color="#FB7185" flood-opacity="0.22"/>
     </filter>
   </defs>
 
-  <rect width="1000" height="320" rx="22" fill="url(#bg)"/>
-  <path d="M0 236C112 202 180 262 304 222C425 183 497 96 628 118C759 140 811 242 1000 192V320H0V236Z" fill="url(#accent)" opacity="0.18"/>
-  <path d="M0 251C140 211 216 275 348 233C466 195 535 120 655 136C789 154 835 247 1000 209" stroke="url(#accent)" stroke-width="2" opacity="0.36"/>
+  <rect width="1000" height="320" rx="28" fill="url(#bg)"/>
 
-  <g opacity="0.28">
-    <path d="M80 46H920" stroke="#FFFFFF" stroke-opacity="0.12"/>
-    <path d="M80 88H920" stroke="#FFFFFF" stroke-opacity="0.08"/>
-    <path d="M80 130H920" stroke="#FFFFFF" stroke-opacity="0.08"/>
-    <path d="M80 172H920" stroke="#FFFFFF" stroke-opacity="0.08"/>
-    <path d="M80 214H920" stroke="#FFFFFF" stroke-opacity="0.08"/>
-    <path d="M80 256H920" stroke="#FFFFFF" stroke-opacity="0.12"/>
+  <g opacity="0.85">
+    <path d="M78 68L88 88L110 91L94 106L98 128L78 117L58 128L62 106L46 91L68 88L78 68Z" fill="#FDBA74"/>
+    <path d="M880 48L888 64L906 67L893 80L896 98L880 89L864 98L867 80L854 67L872 64L880 48Z" fill="#F9A8D4"/>
+    <path d="M852 232L860 248L878 251L865 264L868 282L852 273L836 282L839 264L826 251L844 248L852 232Z" fill="#67E8F9"/>
+    <circle cx="124" cy="244" r="10" fill="#F9A8D4"/>
+    <circle cx="910" cy="152" r="8" fill="#FDBA74"/>
+    <circle cx="72" cy="172" r="7" fill="#67E8F9"/>
   </g>
 
-  <g filter="url(#shadow)">
-    <rect x="98" y="58" width="804" height="204" rx="16" fill="#0D1117" stroke="#30363D"/>
-    <rect x="98" y="58" width="804" height="38" rx="16" fill="#161B22"/>
-    <path d="M98 82H902" stroke="#30363D"/>
-    <circle cx="124" cy="77" r="6" fill="#F87171"/>
-    <circle cx="146" cy="77" r="6" fill="#FBBF24"/>
-    <circle cx="168" cy="77" r="6" fill="#34D399"/>
+  <g filter="url(#softShadow)">
+    <rect x="96" y="76" width="220" height="168" rx="28" fill="url(#accent)"/>
+    <rect x="128" y="110" width="156" height="94" rx="18" fill="#111827"/>
+    <circle cx="176" cy="151" r="10" fill="#FDF2F8"/>
+    <circle cx="238" cy="151" r="10" fill="#FDF2F8"/>
+    <rect x="184" y="178" width="46" height="8" rx="4" fill="#FDF2F8"/>
+    <rect x="168" y="220" width="76" height="10" rx="5" fill="#111827" opacity="0.22"/>
 
-    <text x="500" y="145" text-anchor="middle" fill="#FFFFFF" font-family="Inter, Arial, sans-serif" font-size="42" font-weight="700" letter-spacing="0">
-      security dossier
-    </text>
-    <text x="500" y="178" text-anchor="middle" fill="#FCA5A5" font-family="SFMono-Regular, Consolas, 'Liberation Mono', Menlo, monospace" font-size="17">
-      audits / exploit reproduction / incident analysis
-    </text>
+    <rect x="344" y="70" width="560" height="184" rx="24" fill="url(#screen)" stroke="#374151"/>
+    <rect x="344" y="70" width="560" height="42" rx="24" fill="#0F172A"/>
+    <path d="M344 112H904" stroke="#374151"/>
+    <circle cx="374" cy="91" r="6" fill="#FF6B9D"/>
+    <circle cx="396" cy="91" r="6" fill="#FDBA74"/>
+    <circle cx="418" cy="91" r="6" fill="#67E8F9"/>
 
-    <g font-family="SFMono-Regular, Consolas, 'Liberation Mono', Menlo, monospace" font-size="15">
-      <text x="180" y="222" fill="#9CA3AF">mode:</text>
-      <text x="236" y="222" fill="#F97316">on-chain traces</text>
-      <text x="416" y="222" fill="#9CA3AF">output:</text>
-      <text x="484" y="222" fill="#F97316">PoC / RCA / notes</text>
-      <text x="690" y="222" fill="#9CA3AF">status:</text>
-      <text x="758" y="222" fill="#34D399">research</text>
-    </g>
+    <text x="384" y="154" fill="#FDF2F8" font-family="SFMono-Regular, Consolas, 'Liberation Mono', Menlo, monospace" font-size="22">
+      hello, github
+    </text>
+    <text x="384" y="188" fill="#FFB4D0" font-family="SFMono-Regular, Consolas, 'Liberation Mono', Menlo, monospace" font-size="18">
+      solidity / foundry / traces
+    </text>
+    <text x="384" y="220" fill="#A7F3D0" font-family="SFMono-Regular, Consolas, 'Liberation Mono', Menlo, monospace" font-size="18">
+      small pocs, clean notes
+    </text>
   </g>
 </svg>
