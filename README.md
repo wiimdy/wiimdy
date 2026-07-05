@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="./assets/aqua-friend.svg" alt="cute aqua friend" width="100%" />
+  <img src="https://media.tenor.com/bI42jTkZOacAAAAj/hangyodon-sanrio.gif" alt="Hangyodon" width="210" />
   <br />
   <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=17&duration=2600&pause=900&color=6ECFF6&center=true&vCenter=true&width=460&lines=foundry+%2B+traces;small+pocs;clean+notes" alt="typing" />
 </div>
