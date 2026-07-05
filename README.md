@@ -1,22 +1,19 @@
 <div align="center">
-  <img src="./assets/hello-card.svg" alt="hello profile card" width="100%" />
+  <img src="./assets/aqua-friend.svg" alt="cute aqua friend" width="100%" />
   <br />
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=17&duration=2600&pause=900&color=FF6B9D&center=true&vCenter=true&width=520&lines=solidity+%2F+foundry+%2F+traces;small+PoCs+and+clean+notes;web3+security+research" alt="typing" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=17&duration=2600&pause=900&color=6ECFF6&center=true&vCenter=true&width=460&lines=foundry+%2B+traces;small+pocs;clean+notes" alt="typing" />
 </div>
 
-## A little about me...
+## 𝙰𝚋𝚘𝚞𝚝 𝙼𝚎
 
-```ts
-const profile = {
-  current: "web3 security",
-  interest: ["Solidity", "Foundry", "on-chain traces"],
-  output: ["exploit PoCs", "RCA notes"],
-  style: ["small", "reproducible", "clear"],
-};
-```
+🐟 𝚆𝚎𝚋𝟹 𝚜𝚎𝚌𝚞𝚛𝚒𝚝𝚢 𝚛𝚎𝚜𝚎𝚊𝚛𝚌𝚑, 𝚖𝚘𝚜𝚝𝚕𝚢 𝚘𝚗-𝚌𝚑𝚊𝚒𝚗 𝚝𝚛𝚊𝚌𝚎𝚜
 
-<p align="center">
-  <a href="https://wiimdy.kr">site</a>
-  /
-  <a href="https://x.com/wiimdy">x</a>
-</p>
+🧪 𝙵𝚘𝚞𝚗𝚍𝚛𝚢 𝙿𝚘𝙲𝚜 𝚏𝚘𝚛 𝚎𝚡𝚙𝚕𝚘𝚒𝚝 𝚛𝚎𝚙𝚛𝚘𝚍𝚞𝚌𝚝𝚒𝚘𝚗
+
+🔎 𝚂𝚘𝚕𝚒𝚍𝚒𝚝𝚢 𝚊𝚞𝚍𝚒𝚝𝚜, 𝚝𝚛𝚊𝚌𝚎 𝚛𝚎𝚊𝚍𝚒𝚗𝚐, 𝚊𝚗𝚍 𝚛𝚘𝚘𝚝 𝚌𝚊𝚞𝚜𝚎 𝚗𝚘𝚝𝚎𝚜
+
+🫧 𝚂𝚖𝚊𝚕𝚕 𝚛𝚎𝚙𝚛𝚘𝚜, 𝚌𝚕𝚎𝚊𝚗 𝚠𝚛𝚒𝚝𝚎𝚞𝚙𝚜, 𝚕𝚎𝚜𝚜 𝚗𝚘𝚒𝚜𝚎
+
+🌐 [𝚠𝚒𝚒𝚖𝚍𝚢.𝚔𝚛](https://wiimdy.kr) / [𝚡](https://x.com/wiimdy)
+
+𝚋𝚝𝚠 𝙸 𝚞𝚜𝚎 𝙵𝚘𝚞𝚗𝚍𝚛𝚢

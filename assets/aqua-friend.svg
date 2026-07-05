@@ -1,0 +1,59 @@
+<svg width="1000" height="340" viewBox="0 0 1000 340" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="title desc">
+  <title id="title">Cute aqua friend</title>
+  <desc id="desc">A cute original aqua character for a GitHub README.</desc>
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1000" y2="340" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#ECFEFF"/>
+      <stop offset="0.42" stop-color="#F0F9FF"/>
+      <stop offset="1" stop-color="#FFF1F7"/>
+    </linearGradient>
+    <linearGradient id="aqua" x1="140" y1="74" x2="354" y2="286" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#7DD3FC"/>
+      <stop offset="1" stop-color="#5EEAD4"/>
+    </linearGradient>
+    <linearGradient id="bubble" x1="394" y1="70" x2="872" y2="260" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#111827"/>
+      <stop offset="1" stop-color="#172554"/>
+    </linearGradient>
+    <filter id="shadow" x="-40" y="-40" width="1080" height="420" filterUnits="userSpaceOnUse" color-interpolation-filters="sRGB">
+      <feDropShadow dx="0" dy="18" stdDeviation="22" flood-color="#38BDF8" flood-opacity="0.20"/>
+    </filter>
+  </defs>
+
+  <rect width="1000" height="340" rx="30" fill="url(#bg)"/>
+
+  <g opacity="0.75">
+    <circle cx="84" cy="82" r="9" fill="#F9A8D4"/>
+    <circle cx="116" cy="240" r="7" fill="#67E8F9"/>
+    <circle cx="904" cy="88" r="8" fill="#FDBA74"/>
+    <circle cx="884" cy="260" r="10" fill="#A7F3D0"/>
+    <path d="M68 164C89 148 112 148 132 164C112 180 89 180 68 164Z" fill="#7DD3FC"/>
+    <path d="M866 170C890 152 916 152 940 170C916 188 890 188 866 170Z" fill="#F9A8D4"/>
+  </g>
+
+  <g filter="url(#shadow)">
+    <ellipse cx="226" cy="178" rx="112" ry="105" fill="url(#aqua)"/>
+    <path d="M128 176C98 154 98 202 128 180" fill="#38BDF8"/>
+    <path d="M324 176C360 148 365 210 326 184" fill="#38BDF8"/>
+    <path d="M188 89C176 56 224 59 214 96" fill="#7DD3FC"/>
+    <path d="M264 89C276 56 228 59 238 96" fill="#7DD3FC"/>
+    <ellipse cx="184" cy="158" rx="21" ry="25" fill="#F8FAFC"/>
+    <ellipse cx="268" cy="158" rx="21" ry="25" fill="#F8FAFC"/>
+    <circle cx="190" cy="163" r="8" fill="#111827"/>
+    <circle cx="262" cy="163" r="8" fill="#111827"/>
+    <ellipse cx="226" cy="198" rx="30" ry="18" fill="#FDF2F8"/>
+    <path d="M210 201C220 211 232 211 242 201" stroke="#111827" stroke-width="5" stroke-linecap="round"/>
+    <circle cx="153" cy="184" r="10" fill="#FDA4AF" opacity="0.7"/>
+    <circle cx="300" cy="184" r="10" fill="#FDA4AF" opacity="0.7"/>
+    <path d="M176 268C192 282 210 286 226 286C242 286 260 282 276 268" stroke="#38BDF8" stroke-width="13" stroke-linecap="round"/>
+
+    <rect x="386" y="78" width="514" height="188" rx="30" fill="url(#bubble)"/>
+    <path d="M404 224L352 250L378 202" fill="#111827"/>
+    <rect x="422" y="112" width="68" height="9" rx="4.5" fill="#F9A8D4"/>
+    <rect x="422" y="146" width="392" height="14" rx="7" fill="#E0F2FE"/>
+    <rect x="422" y="180" width="316" height="14" rx="7" fill="#BAE6FD"/>
+    <rect x="422" y="214" width="252" height="14" rx="7" fill="#A7F3D0"/>
+    <text x="510" y="121" fill="#F9A8D4" font-family="SFMono-Regular, Consolas, 'Liberation Mono', Menlo, monospace" font-size="17">hi there</text>
+    <text x="422" y="100" fill="#F8FAFC" font-family="SFMono-Regular, Consolas, 'Liberation Mono', Menlo, monospace" font-size="20">aqua friend says hello</text>
+  </g>
+</svg>
