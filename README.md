@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="./assets/profile-card.svg" alt="hello profile card" width="100%" />
+  <img src="./assets/hello-card.svg" alt="hello profile card" width="100%" />
   <br />
   <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=17&duration=2600&pause=900&color=FF6B9D&center=true&vCenter=true&width=520&lines=solidity+%2F+foundry+%2F+traces;small+PoCs+and+clean+notes;web3+security+research" alt="typing" />
 </div>
