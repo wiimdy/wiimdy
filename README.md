@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://media.tenor.com/bI42jTkZOacAAAAj/hangyodon-sanrio.gif" alt="Hangyodon" width="210" />
+  <img src="https://media.tenor.com/bI42jTkZOacAAAAj/hangyodon-sanrio.gif" alt="Hangyodon" width="150" />
 </div>
 
 ## 𝙰𝚋𝚘𝚞𝚝 𝙼𝚎
@@ -16,14 +16,14 @@
 
 <p>
   <a href="https://www.linkedin.com/in/wiimdy/">
-    <img src="./assets/social-linkedin.svg" alt="LinkedIn" width="58" />
+    <img src="./assets/social-linkedin.svg" alt="LinkedIn" width="40" />
   </a>
   &nbsp;&nbsp;
   <a href="https://x.com/wiimdy">
-    <img src="./assets/social-x.svg" alt="X" width="58" />
+    <img src="./assets/social-x.svg" alt="X" width="40" />
   </a>
   &nbsp;&nbsp;
   <a href="https://wiimdy.kr">
-    <img src="./assets/social-web.svg" alt="Website" width="58" />
+    <img src="./assets/social-web.svg" alt="Website" width="40" />
   </a>
 </p>
